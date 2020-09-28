@@ -6,7 +6,7 @@ function Navbar() {
     <div className="App">
 
     <nav className="navbar navbar-light bg-light">
-    <span className="navbar-brand mb-0 h1">Employee Directory</span>
+    <span className="navbar-brand mb-0 h1">Arsenal Employee Directory</span>
     </nav>
 
 

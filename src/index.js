@@ -12,9 +12,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <Navbar />
-
     <Grid />
-
   </React.StrictMode>,
   document.getElementById('root')
 );
