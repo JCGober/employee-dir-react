@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './grid.css';
 import Navbar from './navbar'
+import Grid from './grid'
+
 
 
 import * as serviceWorker from './serviceWorker';
@@ -9,6 +12,8 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <Navbar />
+
+    <Grid />
 
   </React.StrictMode>,
   document.getElementById('root')
